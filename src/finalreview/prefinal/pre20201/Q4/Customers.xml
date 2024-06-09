@@ -1,0 +1,26 @@
+<Customers>
+    <Customer>
+        <ID>1</ID>
+        <Name>FirstName1 LastName1</Name>
+        <Address>123 Deakin</Address>
+        <City>Canberra</City>
+        <Postcode>2771</Postcode>
+        <Countr>Australia</Countr>
+    </Customer>
+    <Customer>
+        <ID>2</ID>
+        <Name>FirstName2 LastName2</Name>
+        <Address>321 Deakin</Address>
+        <City>Melbourne</City>
+        <Postcode>3100</Postcode>
+        <Countr>Australia</Countr>
+    </Customer>
+    <Customer>
+        <ID>3</ID>
+        <Name>FirstName3 LastName3</Name>
+        <Address>456 Deakin</Address>
+        <City>Brisbane</City>
+        <Postcode>4100</Postcode>
+        <Countr>Australia</Countr>
+    </Customer>
+</Customers>
